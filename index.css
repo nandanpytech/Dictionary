@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.input{
+    border: none;
+    outline: none;
+    border-bottom: 3px solid rgb(34 211 238);
+}
+.box{
+    transition: height .3s linear;
+}
